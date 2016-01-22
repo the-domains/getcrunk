@@ -1,0 +1,28 @@
+name: GetCrunk
+favicon: null
+layout_spectrum: 0.14615019876509905
+typography_spectrum: 0.6198875324334949
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9809367791749537
+  lightness: 0.643017582828179
+  saturation: 0.9106593988835812
+  rhythmicContrast: 0.3868066375143826
+purpose: []
